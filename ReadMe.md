@@ -114,10 +114,10 @@ npm run start
 ## 🎨 Screenshots
 
 **Initialization**
-<img src="/img/Initialization.png" />
+<img src="./img/b.png" />
 
 **Detail**
-<img src="/img/Detail.png" />
+<img src="./img/a.png" />
 
 ## 🛠️ Technology Stack
 
